@@ -2,7 +2,7 @@
  * Melissa Mangos
  * Project Euler - Problem 3
  * What is the largest prime factor of the number 600851475143?
- * 
+ * Answer: 6857
  * Using the Sieve of Eratosthenes: http://en.wikipedia.org/wiki/Sieve_of_Eratosthenes
  */
 public class Problem3 {

@@ -1,6 +1,8 @@
 # Melissa Mangos
 # Project Euler Problem 2
-# By considering the terms in the Fibonacci sequence whose values do not exceed four million, find the sum of the even-valued terms
+# By considering the terms in the Fibonacci sequence whose values do not
+# exceed four million, find the sum of the even-valued terms
+# Answer: 4613732
 
 # Calculates sum of even Fibonacci numbers to 4 million
 # Parameters: x, y - two values to add to create Fibonnaci sequence

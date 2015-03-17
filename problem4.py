@@ -1,6 +1,7 @@
 # Melissa Mangos
 # Project Euler Problem 4
 # Find the largest palindrome made from the product of two 3-digit numbers.
+# Answer: 993 x 913 = 906609
 import math
 
 # Checks if a number is a palindrome or not
@@ -27,6 +28,8 @@ def largest_product():
 			product = i*j
 			if (is_palindrome(product) and largest < product):
 				largest = product
+				print (i)
+				print (j)
 	return largest
 
 print(largest_product())
