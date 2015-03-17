@@ -28,8 +28,6 @@ def largest_product():
 			product = i*j
 			if (is_palindrome(product) and largest < product):
 				largest = product
-				print (i)
-				print (j)
 	return largest
 
 print(largest_product())
